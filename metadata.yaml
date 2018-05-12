@@ -1,0 +1,29 @@
+_repo: Command_32114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McFee, William
+    alias: McFee, William Morley Punshon
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '34733'
+    url: http://www.gutenberg.org/2009/agents/34733
+    wikipedia: http://en.wikipedia.org/wiki/William_McFee
+description: Adventures of a mate on a British freighter.
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Command
+url: http://www.gutenberg.org/ebooks/32114
